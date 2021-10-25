@@ -1,0 +1,9 @@
+
+.main {
+    width: 90%;
+    height: 100vh;
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: auto;
+}
